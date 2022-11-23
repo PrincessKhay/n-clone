@@ -19,7 +19,7 @@ body {
 }
 /* FIRST SECTION */
 #first_section {
-  background-image: url("images/netflixbg.jpg");
+  background-image: url("/images/netflixbg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
